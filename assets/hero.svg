@@ -1,0 +1,84 @@
+<!-- hero.svg | Animated tech banner with embedded GitHub Stats -->
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280">
+  <defs>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#0d1117"/>
+      <path d="M16 0H0V16" fill="none" stroke="#1a2332" stroke-width="1"/>
+      <path d="M8 0V16M0 8H16" fill="none" stroke="#121a24" stroke-width="0.5" opacity="0.8"/>
+    </pattern>
+
+    <linearGradient id="wire1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7A77FF"/>
+      <stop offset="100%" stop-color="#FF6EC7"/>
+    </linearGradient>
+    <linearGradient id="wire2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6EF9A5"/>
+      <stop offset="100%" stop-color="#00E5FF"/>
+    </linearGradient>
+    <radialGradient id="node" r="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="b1"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="b2"/>
+      <feMerge>
+        <feMergeNode in="b2"/>
+        <feMergeNode in="b1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="scan" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <path id="p1" d="M0,90 C120,40 240,140 360,90 S600,40 960,90"/>
+    <path id="p2" d="M0,150 C140,210 260,110 380,150 S700,210 960,150"/>
+    <path id="p3" d="M0,210 C100,180 220,230 340,200 S700,170 960,200"/>
+  </defs>
+
+  <rect width="960" height="280" fill="url(#grid)"/>
+  <rect id="scanbar" y="0" width="160" height="280" fill="url(#scan)" opacity="0.9">
+    <animate attributeName="x" values="-220; 1120" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#e6edf3">
+    <text x="40" y="48" font-size="24">d-ben-b — AI / Web Engineer</text>
+    <text x="40" y="72" font-size="14" fill="#9da7b1">Vue 3 · TypeScript · Python · PyTorch</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" filter="url(#glow)">
+    <use href="#p1" stroke="url(#wire1)" stroke-width="2">
+      <animate attributeName="stroke-dasharray" values="0 1600;80 1520;0 1600" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;-240" dur="5s" repeatCount="indefinite"/>
+    </use>
+    <use href="#p2" stroke="url(#wire2)" stroke-width="2" opacity="0.85">
+      <animate attributeName="stroke-dasharray" values="0 1600;70 1530;0 1600" dur="4.2s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;-300" dur="4.2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#p3" stroke="url(#wire1)" stroke-width="1.6" opacity="0.7">
+      <animate attributeName="stroke-dasharray" values="0 1600;50 1550;0 1600" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-dashoffset" values="0;-360" dur="6s" repeatCount="indefinite"/>
+    </use>
+  </g>
+
+  <g>
+    <circle r="4" fill="url(#node)">
+      <animateMotion dur="5s" repeatCount="indefinite" rotate="auto"><mpath href="#p1"/></animateMotion>
+      <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.2" fill="url(#node)">
+      <animateMotion dur="4.2s" repeatCount="indefinite" rotate="auto" begin="-0.8s"><mpath href="#p2"/></animateMotion>
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="url(#node)">
+      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto" begin="-1.2s"><mpath href="#p3"/></animateMotion
+      ><animate attributeName="opacity" values="0.9;0.5;0.9" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
