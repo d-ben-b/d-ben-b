@@ -5,34 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d-ben-b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<!-- 右側 GIF：把 URL 換成你喜歡的 GIF 來源（例如 Giphy/自有倉庫） -->
-<!-- Minimal tech-line animated SVG -->
-
-<img align="right" height="150"
-     src='data:image/svg+xml;utf8,
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150">
-  <defs>
-    <linearGradient id="g">
-      <stop offset="0%" stop-color="#9aa0ff"/>
-      <stop offset="100%" stop-color="#ff7ab6"/>
-    </linearGradient>
-  </defs>
-  <rect width="300" height="150" fill="#0d1117"/>
-  <g fill="none" stroke="url(%23g)" stroke-width="2">
-    <path d="M0,40 Q50,20 100,40 T200,40 T300,40">
-      <animate attributeName="d" dur="4s" repeatCount="indefinite"
-        values="M0,40 Q50,20 100,40 T200,40 T300,40;
-                M0,40 Q50,60 100,40 T200,40 T300,40;
-                M0,40 Q50,20 100,40 T200,40 T300,40"/>
-    </path>
-    <path d="M0,90 Q60,70 120,90 T240,90 T300,90" opacity="0.6">
-      <animate attributeName="d" dur="5s" repeatCount="indefinite"
-        values="M0,90 Q60,70 120,90 T240,90 T300,90;
-                M0,90 Q60,110 120,90 T240,90 T300,90;
-                M0,90 Q60,70 120,90 T240,90 T300,90"/>
-    </path>
-  </g>
-</svg>' alt="tech lines" />
+<img align="right" height="150" src="./assets/tech-lines.svg" alt="tech svg" />
 
 <div align="left">
   <!-- Web -->
