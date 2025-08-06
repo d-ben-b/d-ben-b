@@ -49,7 +49,7 @@
 
   <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#e6edf3">
     <text x="40" y="48" font-size="24">d-ben-b — AI / Web Engineer</text>
-    <text x="40" y="72" font-size="14" fill="#9da7b1">Vue 3 · TypeScript · Python · PyTorch</text>
+    <text x="40" y="72" font-size="14" fill="#9da7b1">Vue 3 · JavaScript · Python · PyTorch</text>
   </g>
 
   <g fill="none" stroke-linecap="round" filter="url(#glow)">
