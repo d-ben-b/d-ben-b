@@ -6,7 +6,7 @@
 </div>
 
 <!-- 右側 GIF：把 URL 換成你喜歡的 GIF 來源（例如 Giphy/自有倉庫） -->
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbX...你的GIF..." />
+<img align="right" height="150" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="tech gif" />
 
 <div align="left">
   <!-- 只放 Web 技術：Vue / JS / TS / HTML / CSS -->
