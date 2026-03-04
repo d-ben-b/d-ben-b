@@ -22,3 +22,4 @@
 
 <!-- 下面這條會顯示你的「貢獻蛇」動畫（需先設定 GitHub Action，見下一節） -->
 <img src="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake.svg" alt="Snake animation" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/bend06b.png" alt="Your Image Badge" />
