@@ -3,9 +3,9 @@
   <img src="./assets/hero.svg?v=1" width="100%" alt="header banner" />
 </p>
 <p align="center">
-  <a href="https://my-website-g4on.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://d-ben-b.github.io/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/OPEN%20WEBSITE-24292e?style=for-the-badge&logo=vercel&logoColor=white"
+      src="https://img.shields.io/badge/OPEN%20WEBSITE-24292e?style=for-the-badge&logo=github&logoColor=white"
       alt="Open website"
     />
   </a>
