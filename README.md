@@ -11,9 +11,14 @@
   </a>
 </p>
 
+
+<a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=d-ben-b&layout=donut&theme=radical" />
+</a>
+<a href="https://github.com/ishandutta2007/beautiful-github-homepage">
+  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api?username=d-ben-b&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d-ben-b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=d-ben-b&layout=donut)](https://github.com/ishandutta2007/beautiful-github-homepage)
 </div>
 
 <p align="center">
