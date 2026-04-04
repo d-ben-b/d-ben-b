@@ -12,13 +12,14 @@
 </p>
 
 
+<div align="center">
+  
 <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
   <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=d-ben-b&layout=donut&theme=radical" />
 </a>
 <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
   <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api?username=d-ben-b&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
-<div align="center">
 </div>
 
 <p align="center">
