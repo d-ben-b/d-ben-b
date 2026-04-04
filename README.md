@@ -5,8 +5,9 @@
 <p align="center">
   <a href="https://d-ben-b.github.io/" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/OPEN%20WEBSITE-24292e?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/OPEN%20WEBSITE-24292e?style=for-the-badge&logo=github&logoColor=white&?logoSize=auto"
       alt="Open website"
+       width=300
     />
   </a>
 </p>
