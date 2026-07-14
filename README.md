@@ -19,6 +19,9 @@
   <a href="https://tryhackme.com/p/bend06b" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
+  <a href="https://www.kaggle.com/dbenb0304" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
 ---
