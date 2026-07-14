@@ -108,7 +108,7 @@
 
     <g font-family="'JetBrains Mono', ui-monospace, Consolas, monospace">
       <text x="60" y="232" font-size="15" fill="#9da7b1">Python · Jupyter · C · Vue · HTML</text>
-      <text x="60" y="258" font-size="14" fill="#6b7686">CS @ National Cheng Kung University, Taiwan 🇹🇼</text>
+      <text x="60" y="258" font-size="14" fill="#6b7686">EE @ National Cheng Kung University, Taiwan 🇹🇼</text>
       <!-- blinking cursor -->
       <rect x="352" y="220" width="10" height="16" fill="#00E5FF">
         <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>

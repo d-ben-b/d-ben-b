@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">AI / ML & Full-Stack Engineer · Security Enthusiast · CS @ NCKU, Taiwan 🇹🇼</h3>
+<h3 align="center">AI / ML & Full-Stack Engineer · Security Enthusiast · EE @ NCKU, Taiwan 🇹🇼</h3>
 
 <p align="center">
   <img src="./assets/hero.svg?v=1" width="100%" alt="header banner" />
