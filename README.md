@@ -1,32 +1,96 @@
-<h2 align="left">Hi 👋! I'm Ben — an AI/Web engineer from Taiwan (NCKU).</h2>
-<p align="center" margin-bottom:0>
+<h1 align="center">Hi 👋, I'm Ben</h1>
+<h3 align="center">AI / ML & Full-Stack Engineer · Security Enthusiast · CS @ NCKU, Taiwan 🇹🇼</h3>
+
+<p align="center">
   <img src="./assets/hero.svg?v=1" width="100%" alt="header banner" />
 </p>
+
+<!-- Social / contact badges -->
 <p align="center">
   <a href="https://d-ben-b.github.io/" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://img.shields.io/badge/OPEN%20WEBSITE-24292e?style=for-the-badge&logo=github&logoColor=white&?logoSize=auto"
-      alt="Open website"
-       width=300
-    />
+    <img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/d-ben-b-a85b00290" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bend06b@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://tryhackme.com/p/bend06b" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
 
+---
 
-<div align="center">
-  
-<a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=d-ben-b&layout=donut&theme=radical" />
-</a>
-<a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-  <img height=200 align="center" src="https://beautiful-github-homepage.vercel.app/api?username=d-ben-b&theme=radical&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
+### 🧑‍💻 About Me
+
+- 🎓 Computer Science student at **National Cheng Kung University (NCKU)**, Taiwan
+- 🤖 Focused on **AI / Machine Learning** — building and applying LLMs and ML models
+- 🌐 Comfortable across the **full stack** — from web frontends to backend services
+- 🔐 Sharpening my **cybersecurity** skills through CTFs and hands-on labs on TryHackMe
+- 📫 Reach me at **bend06b@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**AI / ML & Data**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <p align="center">
   <img src="./assets/tech-lines.svg?v=2" width="100%" alt="Tech lines banner" />
 </p>
 
-<!-- 下面這條會顯示你的「貢獻蛇」動畫（需先設定 GitHub Action，見下一節） -->
-<img src="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake.svg" alt="Snake animation" />
-<img src="https://tryhackme-badges.s3.amazonaws.com/bend06b.png" alt="Your Image Badge" />
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d-ben-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ben's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-ben-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-ben-b&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<!-- Contribution snake animation (powered by the GitHub Action in .github/workflows/snake.yml) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🔐 TryHackMe
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bend06b.png" alt="TryHackMe badge" />
+</p>
+
+<p align="center"><i>Thanks for visiting — feel free to explore my <a href="https://d-ben-b.github.io/">website</a> or reach out!</i></p>
