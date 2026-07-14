@@ -82,7 +82,11 @@
 
 <!-- Contribution snake animation (powered by the GitHub Action in .github/workflows/snake.yml) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/d-ben-b/d-ben-b/output/snake-dark.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 ---
