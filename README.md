@@ -72,12 +72,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=d-ben-b&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ben's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-ben-b&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d-ben-b&theme=tokyonight" alt="Profile summary" width="78%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-ben-b&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d-ben-b&theme=tokyonight" alt="Repo stats" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d-ben-b&theme=tokyonight&utcOffset=8" alt="Productive time" width="38%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d-ben-b&theme=tokyonight&hide_border=true" alt="GitHub streak" width="78%" />
 </div>
 
 <!-- Contribution snake animation (powered by the GitHub Action in .github/workflows/snake.yml) -->
