@@ -28,7 +28,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **National Cheng Kung University (NCKU)**, Taiwan
+- 🎓 Electrical Engineering student at **National Cheng Kung University (NCKU)**, Taiwan
 - 🤖 Focused on **AI / Machine Learning** — building and applying LLMs and ML models
 - 🌐 Comfortable across the **full stack** — from web frontends to backend services
 - 🔐 Sharpening my **cybersecurity** skills through CTFs and hands-on labs on TryHackMe
